@@ -20,4 +20,4 @@ The Python Visualizer, written by Philip Guo.
 # Textbook: Practical Programming
 This material in this course is based off of the content of our textbook.  This online course is intended to be self-contained, and thus the textbook is optional, but should you want more reading material with additional examples and exercises, our textbook follows the syllabus quite closely. You can choose to purchase an electronic version (PDF, ePub, mobi) instead of a paper book. The price for the electronic version is $25 USD.
 
-Practical Programming (2nd edition): An Introduction to Computer Science Using Python
+Practical Programming (2nd edition): An Introduction to Computer Science Using Python [http://pragprog.com/book/gwpy2/practical-programming]
